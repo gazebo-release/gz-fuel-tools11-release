@@ -130,11 +130,11 @@ cmake_minimum_required(VERSION 3.5)
 project(gz_test VERSION 1.0.0)
 
 find_package(gflags REQUIRED)
-find_package(gz-fuel_tools9 9.0.0 REQUIRED)
+find_package(gz-fuel_tools10 10.0.0 REQUIRED)
 include_directories(\${GZ-FUEL_TOOLS_INCLUDE_DIRS})
 include_directories(\${GZ-COMMON_INCLUDE_DIRS})
 add_executable(gztest gztest.cc)
-target_link_libraries(gztest \${gz-fuel_tools9_LIBRARIES} gflags)
+target_link_libraries(gztest \${gz-fuel_tools10_LIBRARIES} gflags)
 EOF
 
 cmake .
@@ -151,12 +151,12 @@ cmake_minimum_required(VERSION 3.5)
 project(gz_test VERSION 1.0.0)
 
 find_package(gflags REQUIRED)
-find_package(gz-fuel_tools9 9.0.0 REQUIRED)
+find_package(gz-fuel_tools10 10.0.0 REQUIRED)
 add_executable(gztest gztest.cc)
 target_link_libraries(gztest
    PUBLIC
       gflags
-      gz-fuel_tools9::gz-fuel_tools9)
+      gz-fuel_tools10::gz-fuel_tools10)
 EOF
 
 cmake .

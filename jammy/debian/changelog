@@ -1,24 +1,6 @@
-gz-fuel-tools9 (9.0.0-1~jammy) jammy; urgency=medium
-
-  * gz-fuel-tools9 9.0.0-1 release
-
- -- Addisu Z. Taddese <addisu@openrobotics.org>  Fri, 29 Sep 2023 14:13:44 -0500
-
-gz-fuel-tools9 (9.0.0~pre2-1~jammy) jammy; urgency=medium
-
-  * gz-fuel-tools9 9.0.0~pre2-1 release
-
- -- Addisu Z. Taddese <addisu@openrobotics.org>  Thu, 28 Sep 2023 10:45:56 -0500
-
-gz-fuel-tools9 (9.0.0~pre1-1~jammy) jammy; urgency=medium
-
-  * gz-fuel-tools9 9.0.0~pre1-1 release
-
- -- Ian Chen <ichen@openrobotics.org>  Wed, 30 Aug 2023 17:25:46 +0000
-
-gz-fuel-tools9 (8.999.999-1~jammy) jammy; urgency=medium
+gz-fuel-tools10 (9.999.999-1~jammy) jammy; urgency=medium
 
   * Stub to be removed after first entry
 
- -- Ian Chen <ichen@openrobotics.org>  Thu, 02 Mar 2023 15:20:18 -0700
+ -- Addisu Z. Taddese <addisu@openrobotics.org>  Wed, 11 Oct 2023 13:30:27 -0500
 
