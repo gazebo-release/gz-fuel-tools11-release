@@ -1,3 +1,9 @@
+gz-fuel-tools10 (10.0.0~pre2-1~jammy) jammy; urgency=medium
+
+  * gz-fuel-tools10 10.0.0~pre2-1 release
+
+ -- Ian Chen <ichen@openrobotics.org>  Thu, 29 Aug 2024 01:40:22 +0000
+
 gz-fuel-tools10 (10.0.0~pre1-1~jammy) jammy; urgency=medium
 
   * gz-fuel-tools10 10.0.0~pre1-1 release
