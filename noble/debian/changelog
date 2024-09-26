@@ -1,3 +1,9 @@
+gz-fuel-tools10 (10.0.0-1~noble) noble; urgency=medium
+
+  * gz-fuel-tools10 10.0.0-1 release
+
+ -- Addisu Z. Taddese <addisu@openrobotics.org>  Thu, 26 Sep 2024 14:10:13 -0500
+
 gz-fuel-tools10 (10.0.0~pre2-1~noble) noble; urgency=medium
 
   * gz-fuel-tools10 10.0.0~pre2-1 release
@@ -9,9 +15,3 @@ gz-fuel-tools10 (10.0.0~pre1-1~noble) noble; urgency=medium
   * gz-fuel-tools10 10.0.0~pre1-1 release
 
  -- Ian Chen <ichen@openrobotics.org>  Wed, 28 Aug 2024 01:06:36 +0000
-
-gz-fuel-tools10 (9.999.999-1~noble) noble; urgency=medium
-
-  * First release for noble
-
- -- Jose Luis Rivero <jrivero@osrfoundation.org>  Fri, 09 Feb 2024 19:28:53 +0100

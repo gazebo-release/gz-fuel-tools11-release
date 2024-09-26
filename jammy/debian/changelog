@@ -1,3 +1,9 @@
+gz-fuel-tools10 (10.0.0-1~jammy) jammy; urgency=medium
+
+  * gz-fuel-tools10 10.0.0-1 release
+
+ -- Addisu Z. Taddese <addisu@openrobotics.org>  Thu, 26 Sep 2024 14:10:13 -0500
+
 gz-fuel-tools10 (10.0.0~pre2-1~jammy) jammy; urgency=medium
 
   * gz-fuel-tools10 10.0.0~pre2-1 release
@@ -9,10 +15,3 @@ gz-fuel-tools10 (10.0.0~pre1-1~jammy) jammy; urgency=medium
   * gz-fuel-tools10 10.0.0~pre1-1 release
 
  -- Ian Chen <ichen@openrobotics.org>  Wed, 28 Aug 2024 01:06:36 +0000
-
-gz-fuel-tools10 (9.999.999-1~jammy) jammy; urgency=medium
-
-  * Stub to be removed after first entry
-
- -- Addisu Z. Taddese <addisu@openrobotics.org>  Wed, 11 Oct 2023 13:30:27 -0500
-
