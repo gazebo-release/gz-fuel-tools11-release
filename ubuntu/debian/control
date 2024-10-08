@@ -1,4 +1,4 @@
-Source: gz-fuel-tools10
+Source: gz-fuel-tools11
 Maintainer: Jose Luis Rivero <jrivero@osrfoundation.org>
 Section: science
 Priority: optional
@@ -17,11 +17,11 @@ Build-Depends: cmake,
                libyaml-dev,
                libtinyxml2-dev
 Vcs-Browser: https://github.com/gazebosim/gz-fuel-tools
-Vcs-Git: https://github.com/gazebo-release/gz-fuel-tools10-release
+Vcs-Git: https://github.com/gazebo-release/gz-fuel-tools11-release
 Standards-Version: 4.5.1
 Homepage: http://gazebosim.org/
 
-Package: libgz-fuel-tools10
+Package: libgz-fuel-tools11
 Architecture: any
 Section: libs
 Pre-Depends: ${misc:Pre-Depends}
@@ -35,7 +35,7 @@ Description: Gazebo fuel-tools classes and functions - Shared library
  .
  The package ships the Gazebo fuel libraries
 
-Package: libgz-fuel-tools10-dev
+Package: libgz-fuel-tools11-dev
 Architecture: any
 Section: libdevel
 Depends: libgz-cmake4-dev,
@@ -47,7 +47,7 @@ Depends: libgz-cmake4-dev,
        libcurl4-openssl-dev,
        libyaml-dev,
        libtinyxml2-dev,
-       libgz-fuel-tools10 (= ${binary:Version}),
+       libgz-fuel-tools11 (= ${binary:Version}),
        ${misc:Depends}
 Multi-Arch: same
 Description: Gazebo fuel-tools classes and functions - Development files
