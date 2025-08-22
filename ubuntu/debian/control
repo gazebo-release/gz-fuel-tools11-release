@@ -56,3 +56,11 @@ Description: Gazebo fuel-tools classes and functions - Development files
  manage different 3D robotics models.
  .
  The package ships the Gazebo fuel development headers and libraries
+
+Package: gz-jetty-fuel-tools
+Depends: libgz-fuel-tools11-dev (= ${binary:Version}), ${misc:Depends}
+Architecture: all
+Priority: optional
+Section: metapackages
+Description: alias package
+ Provides a package for Jetty without exposing the version number.
