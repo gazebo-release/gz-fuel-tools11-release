@@ -1,3 +1,9 @@
+gz-fuel-tools11 (11.0.0-2~noble) noble; urgency=medium
+
+  * gz-fuel-tools11 11.0.0-2 release
+
+ -- Steve Peters <scpeters@intrinsic.ai>  Sun, 09 Aug 2026 21:33:18 +0000
+
 gz-fuel-tools11 (11.0.0-1~noble) noble; urgency=medium
 
   * gz-fuel-tools11 11.0.0-1 release
